@@ -14,3 +14,5 @@ Console.WriteLine("<------------------------------------------------------------
 Console.Write("lütfen yaşını gir gardaşşşş: ");
 int yas2 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("kişinin yaşı: "+yas2);
+
+Console.WriteLine("Burayı ekledim");
